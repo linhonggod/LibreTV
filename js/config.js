@@ -129,8 +129,7 @@ const API_SITES = {
     },
     jkun: {
         api: 'https://jkunzyapi.com',
-        name: 'jkun资源',
-        adult: true
+        name: 'jkun资源'
     },
     bwzy: {
         api: 'https://api.bwzym3u8.com',
